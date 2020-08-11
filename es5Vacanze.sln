@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcolaLibrary", "CalcolaLibrary\CalcolaLibrary.csproj", "{F8842E35-3CB8-4C08-AADB-3E6BF33C401D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcolaLibraryTest", "CalcolaLibraryTest\CalcolaLibraryTest.csproj", "{0D995441-540E-49E7-8565-799998FDFB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8842E35-3CB8-4C08-AADB-3E6BF33C401D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8842E35-3CB8-4C08-AADB-3E6BF33C401D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8842E35-3CB8-4C08-AADB-3E6BF33C401D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8842E35-3CB8-4C08-AADB-3E6BF33C401D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D995441-540E-49E7-8565-799998FDFB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D995441-540E-49E7-8565-799998FDFB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D995441-540E-49E7-8565-799998FDFB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D995441-540E-49E7-8565-799998FDFB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E572E1FF-57F0-4EF3-BC68-7B591BCFFAD8}
+	EndGlobalSection
+EndGlobal
